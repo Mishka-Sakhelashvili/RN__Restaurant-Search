@@ -2,8 +2,8 @@
 <hr />
 
 <p>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch/blob/master/IMG/Screenshot_1613574135.png"/>
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch/blob/master/IMG/Screenshot_1613574145.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Restaurant-Search/blob/master/IMG/Screenshot_1613574135.png"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/RN__Restaurant-Search/blob/master/IMG/Screenshot_1613574145.png"/>
 </p>
 
 
